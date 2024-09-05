@@ -50,10 +50,11 @@ function Footer() {
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
-            <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            <Link to='https://www.instagram.com/vinit___24/'>Instagram</Link>
+            <Link to='https://www.facebook.com/vinit.patel.5437'>Facebook</Link>
+            <Link to='https://www.youtube.com/@vinitpatel7600'>Youtube</Link>
+            <Link to='https://x.com/vinitpatel476'>Twitter</Link>
+            <Link to='https://www.linkedin.com/in/vinit-patell'>LinkedIn</Link>
           </div>
         </div>
       </div>
@@ -68,7 +69,7 @@ function Footer() {
         <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
-              to='/'
+              to='https://www.facebook.com/vinit.patel.5437'
               target='_blank'
               aria-label='Facebook'
             >
@@ -76,7 +77,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link instagram'
-              to='/'
+              to='https://www.instagram.com/vinit___24/'
               target='_blank'
               aria-label='Instagram'
             >
@@ -84,7 +85,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link youtube'
-              to='/'
+              to='https://www.youtube.com/@vinitpatel7600'
               target='_blank'
               aria-label='Youtube'
             >
@@ -92,7 +93,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link twitter'
-              to='/'
+              to='https://x.com/vinitpatel476'
               target='_blank'
               aria-label='Twitter'
             >
@@ -100,7 +101,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link twitter'
-              to='/'
+              to='https://www.linkedin.com/in/vinit-patell'
               target='_blank'
               aria-label='LinkedIn'
             >
